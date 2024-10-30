@@ -1,0 +1,22 @@
+Code	Roughness  Mobile   Erosion Inferior Angle (°)  Erosion Inferior velocity (m/s) Depos Sup Angle (0)  Depos Sup velocity (m/s) Erosion limit  Structure  Sensori  	       Description
+1.0       1.0         1.0	       89.0                        9.0                       14.0        1.0              0.62        0.0         0.0          0.0     111 112 121 142 Zone urbanizzate
+2.0       4.0         1.0	       30.0                        3.0                       14.0        1.0              0.62        0.0         0.0          0.0     122 Rete stradale
+3.0       3.0         1.0	       20.0                        2.0                       14.0        1.0              0.62        0.0         0.0          0.0     231 333 Prati stabili e vegetazione rada
+4.0       1.0         1.0	       20.0                        3.0                       12.0        0.8              0.62        0.0         0.0          0.0     311 312 313 322 Boschi di conifere cespuglieti e mughete misti
+5.0       5.0         1.0	       12.0                        1.0                        8.0        0.8              0.62        0.0         0.0          0.0     x1 Tombotto sotto pista 
+6.0       5.0         1.0	       16.0                        1.8                       14.0        1.0              0.62        1.0         0.0          0.0     332 Rocce nude
+7.0       5.0         1.0          12.0                        1.0                        8.0        0.8              0.62        0.0         0.0          0.0     Piazzale Eroso
+8.0       5.0         1.0          16.0                        1.8                       14.0        1.0              0.62        0.0         0.0          0.0     Deposito frana su Ru Salvela parte alta
+9.0       5.0         1.0          16.0                        1.8                       14.0        1.0              0.62        0.0         0.0          0.0     Deposito frana su Ru Salvela parte bassa
+10.0      5.0         1.0	       16.0                        1.8                       14.0        1.0              0.62        0.0         0.0          0.0     601 Letto alveo canale
+11.0      3.0         1.0	        9.0                        0.9                        8.0        0.5              0.62        0.0         0.0          0.0     602 Sponde alveo canale + 340 Ghiaioni
+12.0      5.0         1.0	       15.0                        1.8                       12.0        1.0              0.62        1.0         0.0          0.0     603 Strutture in c.a. briglie muri cunettoni
+13.0      4.0         1.0          15.0                        1.8                       12.0        1.0              0.62        1.0         0.0          0.0     604 Scogliere in massi leggermente cementati
+14.0      4.0         1.0	       16.0                        2.0                       12.0        1.0              0.62        0.0         0.0          0.0     605 Ghiaie compattate piste forestali aree cantiere e parcheggi sterrati
+15.0      5.0         1.0          16.0                        1.8                       14.0        1.0              0.62        0.0         0.0          0.0     Alveo Ru Beche
+16.0      5.0         0.0          16.0                        2.0                       14.0        1.0              0.62        0.0         0.0          0.0     Ghiaione fondo fisso    
+17.0      6.0         1.0           9.0                        1.3                        5.0        0.8              0.62        0.0         0.0          0.0     Alveo Ru Secco dopo il tombotto
+18.0      4.0         1.0	        7.0                        0.8                        4.0        0.5              0.62        0.0         0.0          0.0     Sponde alveo Ru Secco dopo il tombotto
+19.0      6.0         1.0           5.0                        1.3                        2.5        0.8              0.62        0.0         0.0          0.0     Alveo Ru Secco tratto finale
+20.0      4.0         1.0	        4.0                        0.8                        2.0        0.5              0.62        0.0         0.0          0.0     Sponde alveo Ru Secco tratto finale
+21.0      5.0         0.0          16.0                        2.0                       14.0        1.0              0.62        0.0         0.0          0.0     Alveo cementato

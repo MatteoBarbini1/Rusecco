@@ -1,0 +1,22 @@
+Header                   File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\dem_pre_spianato_piazza.hdr
+Input hydrographs        File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\Q_Radar_SolidoLiquidoDIC2017.txt
+Distribution control flag number  :      1.00
+Land Use                 File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\usosuolo_new20.flt
+Land Characteristic      File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\usosuolo_tabella_new_v8.txt
+Internal Output (1)               :       1.0
+Internal Outputs         File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\sezioni_interne_1000_1005_NEW.flt
+Second Internal Outputs  File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\sezioni_interne_999_NEW.flt
+Internal Output Time Step (seconds):           20.0
+Simulation time                   :        6000.00
+Depos. Coeff. for Limit Angle     :     5.000
+Inferior Limit Angle (°) for debris flow routing:      5.00
+Courant number                    :     0.950
+Minimum Flow Depth for Routing (m):   0.03000
+Erosion flag number               :      1.00
+Egashira erosion coefficient     :      0.50
+Egashira deposition coefficient  :      0.10
+Minimum Flow Depth for Eros/Dep(m):   0.10000
+Mean solid concentration          :     0.000
+Rest solid concentration          :     0.620
+Output time step (seconds)     	:    20.000
+Inlet Outlet condition   File:D:\Dottorato20-21\simulazioni\rusecco\RuseccoPerMatteo\input_output_new_shift.flt
